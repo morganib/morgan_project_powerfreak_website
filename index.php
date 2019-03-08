@@ -18,10 +18,7 @@
 
             <div class=" img_can">
 
-              <div class="red-tong"><img src="assets/images/red_tong.png" width="140"/></div>
               <div class="leaves"><img src="assets/images/leaves.png" width="280"/></div>
-              <div class="green-tong"><img src="assets/images/green_tong.png" width="160"/></div>
-              <div class="blk-tong"><img src="assets/images/blk_tong.png" width="300"/></div>
 
               <div class="block_bubble black_bubble">
                 <img src="assets/images/icon-star-green.svg" width="80" />
@@ -47,7 +44,7 @@
 
       </div>
 
-      
+
 
     </body>
 

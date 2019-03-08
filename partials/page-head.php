@@ -1,12 +1,20 @@
+<input type="checkbox" id="nav-display">
+
+<label for="nav-display" class="block--nav-button">
+  <div class="button">
+    <div class="icon"> ///  </div>
+  </div>
+</label>
+
 <header class="page-head">
+
   <div class="logo_pfk">
-    <img src="assets/images/PW19_logo.png" width="100"/>
+    <a href="index.php"><img src="assets/images/PW19_logo.png" width="100"/></a>
   </div>
 <div class="section_menu">
 
   <nav class="section-nav">
     <ul>
-      <li><a href="index.php">Home</a></li>
       <li><a href="recyclage.php">Recyclage</a></li>
       <li><a href="power-freak.php">Power-freak</a></li>
       <li><a href="contact.php">contactez-nous</a></li>

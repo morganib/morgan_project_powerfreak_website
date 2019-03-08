@@ -30,7 +30,12 @@
               <div class="container">
 
                 <div id="accordion">
-                  <h3>Quelle est la fonctionnalité de Power Freak ?</br><img src="assets/images/icon-plus.svg" width="20" /></h3>
+                  <h3>
+                    <div>Quelle est la fonctionnalité de Power Freak ?</div>
+                    <div>
+                      <img src="assets/images/icon-plus.svg" width="20" />
+                    </div>
+                  </h3>
                   <div>
                     <p>
                       Notre recette est appréciée dans le monde entier par les top athlètes, les étudiants, lorsque l'on est très sollicité ou pour les longs trajets.
